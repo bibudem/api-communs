@@ -2,6 +2,14 @@
 
 Toutes les modifications notables apportées à ce projet seront documentées dans ce fichier. Consultez [standard-version](https://github.com/conventional-changelog/standard-version) pour les lignes directrices des commits.
 
+## [1.6.0](https://github.com/bibudem/api-communs/compare/v1.5.0...v1.6.0) (2026-03-30)
+
+
+### Features
+
+* Mise à jour de la version de node à lts 24.14.0 ([2167bcc](https://github.com/bibudem/api-communs/commit/2167bcc0c1bedd3fa7fcf6b834d70280fb74b261))
+* Mise à jour de la version de node à lts 24.14.0 ([e872f6a](https://github.com/bibudem/api-communs/commit/e872f6ac9622eb9e9fd1ce148e886e63d8b4a901))
+
 ## [1.5.0](https://github.com/bibudem/api-communs/compare/v1.4.0...v1.5.0) (2023-02-27)
 
 

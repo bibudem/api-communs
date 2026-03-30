@@ -1,6 +1,6 @@
 {
   "name": "@bibudem/api-communs",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Librairies communes utilisées par les services REST des Bibliothèques de l'Université de Montréal",
   "type": "module",
   "exports": "./index.js",
