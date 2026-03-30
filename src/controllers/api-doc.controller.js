@@ -1,7 +1,7 @@
 import { Router } from 'express'
 import swaggerUi from 'swagger-ui-express'
-import errorsSchema from '../errors.json' assert { type: 'json'}
-import aboutSchema from '../about.json' assert { type: 'json'}
+import errorsSchema from '../errors.json' with { type: 'json'}
+import aboutSchema from '../about.json' with { type: 'json'}
 
 export function apiDocRouter(apiBaseUrl, apiSchema) {
 

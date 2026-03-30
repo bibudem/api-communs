@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bibudem/api-communs",
   "engines": {
-    "node": "16.17.0"
+    "node": "24.14.0"
   },
   "dependencies": {
     "express": "^4.18.2",
