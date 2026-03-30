@@ -4,7 +4,7 @@ import { initialize } from 'express-openapi'
 import { apiDocRouter } from '../controllers/api-doc.controller.js'
 import { responseValidationMiddleware } from '../middlewares/response-validation.middleware.js'
 import { defaultMiddleware, errorMiddleware } from '../middlewares/error.middleware.js'
-import errorsSchema from '../errors.json' assert {type: 'json'}
+import errorsSchema from '../errors.json' with {type: 'json'}
 
 export async function initializeApi({ apiSchema, apiBaseUrl, operations, middlewares = [], externalSchemas = {} }) {
 
