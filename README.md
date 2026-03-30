@@ -16,7 +16,7 @@ Effectuer un commit des fichiers build, avec un message du genre:
 
 ```
 
-git commit -m "chore:Build pour v0.13.0" -m "Release-As: 0.13.0" && git push
+git commit --allow-empty -m "chore:Build pour v2.0.0" -m "Release-As: 2.0.0" && git push
 
 ```
 
